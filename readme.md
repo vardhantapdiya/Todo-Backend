@@ -23,12 +23,12 @@
     <pre><code>git clone <-repository link->
     </code></pre>
 
-    <li><strong>Install dependencies:</strong></li>
-    <pre><code>npm install</code></pre>
+    Install dependencies:
+    npm install
 
-    <li><strong>Run the server:</strong></li>
-    <pre><code>npm start</code></pre>
-    <p>The server will start at <code>http://localhost:5000</code> (default port).</p>
+    Run the server:
+    npm start
+  The server will start at http://localhost:3000(default port).
 </ol>
 
 <h2>📡 API Endpoints</h2>
