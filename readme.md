@@ -42,13 +42,12 @@
   "title": "Learn Express",
   "description": "Understand basics of Express.js"
 }</code></pre>
-
-    Response:
-   {
+<li><strong>Response:</strong></li>
+    <pre><code>{
   "id": 1,
   "title": "Learn Express",
   "description": "Understand basics of Express.js"
-}
+}</code></pre>
 </ul>
 
 <h3>2️⃣ Get All Todos</h3>
