@@ -1,5 +1,5 @@
 <h1>📝 Todo App Backend</h1>
-<p>A simple <strong>Todo App Backend</strong> built with <strong>Node.js and Express.js</strong>, providing full CRUD (Create, Read, Update, Delete) functionalities for managing todos.</p>
+<p>A simple <strong>Todo App Backend</strong> built with <strong>MongoDB, Node.js and Express.js</strong>, providing full CRUD (Create, Read, Update, Delete) functionalities for managing todos.</p>
 
 <h2>🚀 Features</h2>
 <ul>
@@ -22,13 +22,11 @@
     <li><strong>Clone the repository:</strong></li>
     <pre><code>git clone <-repository link->
     </code></pre>
-
-    Install dependencies:
-    npm install
-
+    <li><strong>Install dependencies:</strong></li>
+    <pre><code>npm install
     Run the server:
-    npm start
-  The server will start at http://localhost:3000(default port).
+    npm start</code></pre>
+  The server will start at http://localhost:3000 (default port).
 </ol>
 
 <h2>📡 API Endpoints</h2>
